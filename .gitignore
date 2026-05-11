@@ -6,3 +6,6 @@
 *.shx
 *.cpg
 *.prj
+
+input/*
+output/*
