@@ -33,6 +33,6 @@ Generalizing is happening with a custom minimal rotated rectangle algorithm.
 Although the plots look a little weird on each other, it solves the original task.
 
 # Credits
-Using pixi package management tool: https://pixi.prefix.dev/latest/
-Using Python GDAL: https://gdal.org/en/stable/api/python/index.html
-Using BBBike for the maps: https://extract.bbbike.org/
+- Using pixi package management tool: https://pixi.prefix.dev/latest/
+- Using Python GDAL: https://gdal.org/en/stable/api/python/index.html
+- Using BBBike for the maps: https://extract.bbbike.org/
