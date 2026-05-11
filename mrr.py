@@ -59,8 +59,8 @@ def mrr(geom):
 
 
 
-input_file = "input/oktogon_buildings.shp"
-output_file = "output/oktogon_result_mrr.shp"
+input_file = "input/buildings.shp"
+output_file = "output/result_mrr.shp"
 
 # Driver setup
 driver = ogr.GetDriverByName("ESRI Shapefile")

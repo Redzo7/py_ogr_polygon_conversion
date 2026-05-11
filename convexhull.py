@@ -2,8 +2,8 @@ from osgeo import ogr
 import datetime
 import os
 
-input_file = "input/oktogon_buildings.shp"
-output_file = "output/oktogon_result.shp"
+input_file = "input/buildings.shp"
+output_file = "output/result_chull.shp"
 
 # Driver setup
 driver = ogr.GetDriverByName("ESRI Shapefile")
