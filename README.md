@@ -11,6 +11,14 @@ I've created several versions for this programme, using different features of th
 ## convexhull.py
 Generalizing the buildings with the built in ConvexHull function.
 
+Not an acceptable solution, as the shapes are still not always rectangular. It only forces convexivity.
+
+## envelope.py
+Generalizing the building with the minimum bounding boxes using the GetEnvelope() function.
+I convert the enveloping coordinates into a polygon.
+
+Not an acceptable solution, as the shapes are not rotated to the original dimension of the buildings. 
+
 
 # Credits
 Using pixi package management tool: https://pixi.prefix.dev/latest/
